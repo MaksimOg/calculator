@@ -1,0 +1,47 @@
+
+   #calculaytor{
+    width: 400px;
+	height: 600px;
+	margin: auto auto auto auto;
+	border: 2px solid;
+	border-radius: 30px;
+	padding: 20px;
+	background-color: #C0C0C0;
+   }
+   #display{
+    width: 400px;
+	height:80px;
+	background-color: #F0E68C;
+	border: 2px solid;
+	border-radius: 30px;
+   }
+   #buttons{
+    width: 400px;
+    height:500px;
+    border: 2px solid;
+	margin-top: 20px;
+	display:-webkit-box;
+	-webkit-box-orient: horizontal; 
+	background-color: #C0C0C0;
+   }
+   .button{
+    width: 60px;
+	height: 60px;
+	border-radius: 10px;
+	margin: 20px 0px 0px 30px;
+	background-color: #2F4F4F;
+	color: white;
+   }
+   #plus{
+    height:140px;
+	position: absolute;
+   }
+   p{
+    text-align:center;
+	margin: 0px;
+   }
+   #target1{
+    font-family:"mv boli";
+	font-size:30px;
+	margin-top:10px;
+   }
